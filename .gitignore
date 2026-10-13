@@ -16,3 +16,9 @@ API_Keys.txt
 
 # Virtual environments
 venv/
+
+# Secrets and virtual environments
+**/.env
+**/API_Keys.txt
+**/.venv/
+**/.git-backup/
